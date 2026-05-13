@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/iThaDMATool/main/logo.webp" width="200" alt="iThaDMA Tool">
+<img width="129" height="129" alt="icon" src="https://github.com/user-attachments/assets/936c77b3-44ef-4b81-8532-66ca58a50ba8" />
+
 </p>
 
 <h1 align="center">iThaDMA Tool</h1>
@@ -26,6 +27,7 @@ Go to the [**Releases**](../../releases/latest) page and download **`iThaDMA Too
 Run the installer — choose your install directory, click Install, done.
 
 ---
+<img width="2264" height="1478" alt="image" src="https://github.com/user-attachments/assets/659a5345-4963-4dcb-8ac3-67309acc51c7" />
 
 ## Features
 
